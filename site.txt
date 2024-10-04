@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uma História de Amor</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+        }
+
+        /* Estilos para cada seção */
+        section {
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 1.5em;
+            max-width: 800px;
+        }
+
+        /* Cores e imagens de fundo para cada seção */
+        .section1 {
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://example.com/encontro.jpg') no-repeat center center/cover;
+        }
+
+        .section2 {
+            background-color: #e91e63;
+        }
+
+        .section3 {
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://example.com/viagem.jpg') no-repeat center center/cover;
+        }
+
+        .section4 {
+            background-color: #3f51b5;
+        }
+
+        .section5 {
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://example.com/momento-especial.jpg') no-repeat center center/cover;
+        }
+
+        .section6 {
+            background-color: #009688;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Seção 1: Início do relacionamento -->
+    <section class="section1">
+        <div>
+            <h1>Ester e João para sempre</h1>
+            <p>
+			 <img src= "Namoro.JPG" width="210px" /> <br>
+                Lembro como se fosse ontem, o dia em que te pedir em namoro. No momento em que você entrou na minha vida, mudou minha vida para melhor.
+                Seu sorrisinho maravilho me encantou, e naquele momento o meu mundo parou.
+            </p>
+        </div>
+    </section>
+
+    <!-- Seção 2: Crescimento do amor -->
+    <section class="section2">
+        <div>
+            <h1>O Crescimento do Nosso Amor</h1>
+            <p>
+			<img src= "aventura noturna.JPG" width="210px" /> <br>
+                A cada dia que passou eu me apaixonei mais e mais por você. Nossos momentos juntos foram se tornando valiosos, e logo percebi que
+                você era tudo o que eu sempre sonhei. Seu jeitinho, seu carinho, a forma que me trata – tudo em você me faz querer ser uma pessoa melhor.
+            </p>
+        </div>
+    </section>
+
+    <!-- Seção 3: Viagens e aventuras -->
+    <section class="section3">           
+        <div>
+            <h1>Nossas Aventuras</h1>
+            <p>
+			<img src= "Primeira viagem.JPG" width="210px" /> <br>
+                Lembra daquela nossa viagem? Um dos momentos mais especiais da minha vida. Na estrada foi incrível, cantamos, rimos,contamos fofocas,
+                tudo era perfeito. Essa viagem foi muito importante para nós, sou grato de mais por ter viajado com você e ter tido a chance conhecer quem é a Ester.
+            </p>
+        </div>
+    </section>
+
+    <!-- Seção 5: Momentos especiais -->
+    <section class="section5">
+        <div>
+            <h1>Momentos Inesquecíveis</h1>
+            <p>
+			<img src= "momentos.JPG" width="210px" /> <br>
+                Há momentos que nunca vou esquecer: aquele pôr do sol no sambódromo ou na Unicamp, o abraço silencioso, aqueles olharem que falavam mais que palavras.
+                São essas pequenas coisas que fazem nosso relacionamento ser único. E sei que vamos viver momentos ainda mais incríveis.
+            </p>
+        </div>
+    </section>
+
+    <!-- Seção 6: O futuro -->
+    <section class="section6">
+        <div>
+            <h1>Nosso Futuro</h1>
+            <p>
+			<img src= "futuro.JPG" width="210px" /> <br>
+                Quando penso no futuro, vejo você ao meu lado. Tudo o que quero é continuar vivendo essa história de amor ao seu lado.
+                Que esses quase dois anos se tornem décadas e que o nosso amor continue crescendo a cada dia. Te amo mais do que qualquer palavra possa expressar.
+            </p>
+        </div>
+    </section>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>Com todo o meu amor, João Vitor</p>
+    </footer>
+
+</body>
+</html>
